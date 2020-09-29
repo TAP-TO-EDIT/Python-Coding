@@ -1,0 +1,44 @@
+print("Title of program: Rent-A-Boyfriend Matching Personality test")
+print()
+print("Welcome to DHS! Please answer the following questions truthfully and we'll suggest a boy for you!")
+print("Please respond with a number 1 - 5, where 1 is strongly no like and 5 is strongly like.")
+print()
+
+Xr1 = input("Interested in Chinese from China?")
+
+K1 = input("Enjoy a depressed kid?")
+
+L1 = input("Like the sporty one?")
+
+Hw1 = input("One thicc boy for you?")
+
+Zw1 = input("Does gayness triumph in your heart?.")
+
+Jt1 = input("Love games?")
+
+Xr2 = input("Love a sexy boy? jk handsome lol.)
+
+K2 = input("Want the cool kid?")
+
+L2 = input("Want barney? Choose him!")
+
+Hw2 = input("Love the foodie? He is the one for you!")
+
+Zw2 = input(" Act like gangster but cannot make it? Like him or you don't")
+
+Jt2 = input(" Anime do you love? You share it with this one!")
+
+
+Xr_final = int(Xr1) + int(Xr2)
+K_final = int(K1) + int(K2)
+L_final = int(L1) + int(L2)
+Hw_final = int(Hw1) + int(Hw2)
+Zw_final = int(Zw1) + int(Zw2)
+Jt_final = int(Jt1) + int(Jt2)
+
+
+print()
+
+if Xr_final > K_final and L_final and Hw_final and Zw_final and Jt _final:
+  print("
+  
